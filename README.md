@@ -1,2 +1,2 @@
 # Demo 
-Github demo exercises
+Github demo exercises !
